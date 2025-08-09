@@ -1,2 +1,2 @@
 # discord-aram-bot
-A discord bot that rolls champions for two teams. Intended for ARAM customs.
+A discord bot that rolls champions for two teams. Intended for ARAM customs. More info follows soon.
