@@ -1,0 +1,3 @@
+discord_guild_id = putYourDiscordServerIDHere
+discord_bot_token = putYourDiscordBotTokenHere
+image_channel_or_user_id = optional_putImageDumpChannelOrUserIDHere_put0IfUnused
